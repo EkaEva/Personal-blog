@@ -30,6 +30,10 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "6a833b4c8d8943e0",
+			"url": "/images/art/6a833b4c8d8943e0.png"
 		}
 	],
 	"currentArtImageId": "a46372ff45bc5524",
@@ -37,6 +41,10 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "d99d71e781697bc5",
+			"url": "/images/background/d99d71e781697bc5.png"
 		}
 	],
 	"currentBackgroundImageId": "",
@@ -46,17 +54,17 @@
 			"type": "github",
 			"value": "https://github.com/EkaEva",
 			"label": "Github",
-			"order": 3
+			"order": 1
 		}
 	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
-	"hideEditButton": false,
+	"hideEditButton": true,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 2,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "",
 		"link": ""
