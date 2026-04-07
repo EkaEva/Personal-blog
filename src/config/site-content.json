@@ -30,23 +30,31 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "6a833b4c8d8943e0",
+			"url": "/images/art/6a833b4c8d8943e0.png"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "6a833b4c8d8943e0",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "d99d71e781697bc5",
+			"url": "/images/background/d99d71e781697bc5.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "d99d71e781697bc5",
 	"socialButtons": [
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/EkaEva",
 			"label": "Github",
-			"order": 3
+			"order": 1
 		}
 	],
 	"clockShowSeconds": false,
@@ -54,7 +62,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 2,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
